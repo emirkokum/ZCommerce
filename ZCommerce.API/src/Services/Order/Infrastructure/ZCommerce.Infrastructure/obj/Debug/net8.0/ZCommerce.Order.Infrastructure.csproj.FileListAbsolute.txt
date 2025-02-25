@@ -1,0 +1,15 @@
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Infrastructure\ZCommerce.Infrastructure\bin\Debug\net8.0\ZCommerce.Order.Infrastructure.deps.json
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Infrastructure\ZCommerce.Infrastructure\bin\Debug\net8.0\ZCommerce.Order.Infrastructure.dll
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Infrastructure\ZCommerce.Infrastructure\bin\Debug\net8.0\ZCommerce.Order.Infrastructure.pdb
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Infrastructure\ZCommerce.Infrastructure\bin\Debug\net8.0\ZCommerce.Shared.dll
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Infrastructure\ZCommerce.Infrastructure\bin\Debug\net8.0\ZCommerce.Shared.pdb
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Infrastructure\ZCommerce.Infrastructure\obj\Debug\net8.0\ZCommerce.Order.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Infrastructure\ZCommerce.Infrastructure\obj\Debug\net8.0\ZCommerce.Order.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Infrastructure\ZCommerce.Infrastructure\obj\Debug\net8.0\ZCommerce.Order.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Infrastructure\ZCommerce.Infrastructure\obj\Debug\net8.0\ZCommerce.Order.Infrastructure.AssemblyInfo.cs
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Infrastructure\ZCommerce.Infrastructure\obj\Debug\net8.0\ZCommerce.Order.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Infrastructure\ZCommerce.Infrastructure\obj\Debug\net8.0\ZCommerc.9FB0612A.Up2Date
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Infrastructure\ZCommerce.Infrastructure\obj\Debug\net8.0\ZCommerce.Order.Infrastructure.dll
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Infrastructure\ZCommerce.Infrastructure\obj\Debug\net8.0\refint\ZCommerce.Order.Infrastructure.dll
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Infrastructure\ZCommerce.Infrastructure\obj\Debug\net8.0\ZCommerce.Order.Infrastructure.pdb
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Infrastructure\ZCommerce.Infrastructure\obj\Debug\net8.0\ref\ZCommerce.Order.Infrastructure.dll

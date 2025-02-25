@@ -1,0 +1,15 @@
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Core\ZCommerce.Order.Domain\bin\Debug\net8.0\ZCommerce.Order.Domain.deps.json
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Core\ZCommerce.Order.Domain\bin\Debug\net8.0\ZCommerce.Order.Domain.dll
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Core\ZCommerce.Order.Domain\bin\Debug\net8.0\ZCommerce.Order.Domain.pdb
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Core\ZCommerce.Order.Domain\bin\Debug\net8.0\ZCommerce.Shared.dll
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Core\ZCommerce.Order.Domain\bin\Debug\net8.0\ZCommerce.Shared.pdb
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Core\ZCommerce.Order.Domain\obj\Debug\net8.0\ZCommerce.Order.Domain.csproj.AssemblyReference.cache
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Core\ZCommerce.Order.Domain\obj\Debug\net8.0\ZCommerce.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Core\ZCommerce.Order.Domain\obj\Debug\net8.0\ZCommerce.Order.Domain.AssemblyInfoInputs.cache
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Core\ZCommerce.Order.Domain\obj\Debug\net8.0\ZCommerce.Order.Domain.AssemblyInfo.cs
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Core\ZCommerce.Order.Domain\obj\Debug\net8.0\ZCommerce.Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Core\ZCommerce.Order.Domain\obj\Debug\net8.0\ZCommerc.D5F64C73.Up2Date
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Core\ZCommerce.Order.Domain\obj\Debug\net8.0\ZCommerce.Order.Domain.dll
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Core\ZCommerce.Order.Domain\obj\Debug\net8.0\refint\ZCommerce.Order.Domain.dll
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Core\ZCommerce.Order.Domain\obj\Debug\net8.0\ZCommerce.Order.Domain.pdb
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\Services\Order\Core\ZCommerce.Order.Domain\obj\Debug\net8.0\ref\ZCommerce.Order.Domain.dll

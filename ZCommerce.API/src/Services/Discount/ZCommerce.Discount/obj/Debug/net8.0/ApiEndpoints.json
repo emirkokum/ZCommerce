@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "ZCommerce.Discount.Controllers.DiscountsController",
+    "Method": "GetAllCouponAsync",
+    "RelativePath": "api/Discounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZCommerce.Discount.Controllers.DiscountsController",
+    "Method": "CreateCouponAsync",
+    "RelativePath": "api/Discounts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createCouponDto",
+        "Type": "ZCommerce.Discount.Dtos.CreateCouponDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZCommerce.Discount.Controllers.DiscountsController",
+    "Method": "UpdateCouponAsync",
+    "RelativePath": "api/Discounts",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateCouponDto",
+        "Type": "ZCommerce.Discount.Dtos.UpdateCouponDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZCommerce.Discount.Controllers.DiscountsController",
+    "Method": "GetByIdCouponAsync",
+    "RelativePath": "api/Discounts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "getByIdCouponDto",
+        "Type": "ZCommerce.Discount.Dtos.GetByIdCouponDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZCommerce.Discount.Controllers.DiscountsController",
+    "Method": "DeleteCouponAsync",
+    "RelativePath": "api/Discounts/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

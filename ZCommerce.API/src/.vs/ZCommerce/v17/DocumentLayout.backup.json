@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FB14A-01D0-4144-BC9E-68CD0E73B14A}|Services\\Order\\Core\\ZCommerce.Order.Application\\ZCommerce.Order.Application.csproj|c:\\users\\emir\\desktop\\coding\\z-commerceproject\\zcommerce.api\\src\\services\\order\\core\\zcommerce.order.application\\features\\cqrs\\commands\\addresscommands\\createaddresscommands\\createaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8FB14A-01D0-4144-BC9E-68CD0E73B14A}|Services\\Order\\Core\\ZCommerce.Order.Application\\ZCommerce.Order.Application.csproj|solutionrelative:services\\order\\core\\zcommerce.order.application\\features\\cqrs\\commands\\addresscommands\\createaddresscommands\\createaddresscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3783E-0827-48C6-9311-20FB166A1874}|Services\\Order\\Presentation\\ZCommerce.Order.WebAPI\\ZCommerce.Order.WebAPI.csproj|c:\\users\\emir\\desktop\\coding\\z-commerceproject\\zcommerce.api\\src\\services\\order\\presentation\\zcommerce.order.webapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D3783E-0827-48C6-9311-20FB166A1874}|Services\\Order\\Presentation\\ZCommerce.Order.WebAPI\\ZCommerce.Order.WebAPI.csproj|solutionrelative:services\\order\\presentation\\zcommerce.order.webapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA9EA14-B39A-49A0-B514-6D207BF30549}|Services\\Order\\Infrastructure\\ZCommerce.Order.Persistence\\ZCommerce.Order.Persistence.csproj|c:\\users\\emir\\desktop\\coding\\z-commerceproject\\zcommerce.api\\src\\services\\order\\infrastructure\\zcommerce.order.persistence\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA9EA14-B39A-49A0-B514-6D207BF30549}|Services\\Order\\Infrastructure\\ZCommerce.Order.Persistence\\ZCommerce.Order.Persistence.csproj|solutionrelative:services\\order\\infrastructure\\zcommerce.order.persistence\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FB14A-01D0-4144-BC9E-68CD0E73B14A}|Services\\Order\\Core\\ZCommerce.Order.Application\\ZCommerce.Order.Application.csproj|c:\\users\\emir\\desktop\\coding\\z-commerceproject\\zcommerce.api\\src\\services\\order\\core\\zcommerce.order.application\\features\\cqrs\\commands\\addresscommands\\createaddresscommands\\createaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8FB14A-01D0-4144-BC9E-68CD0E73B14A}|Services\\Order\\Core\\ZCommerce.Order.Application\\ZCommerce.Order.Application.csproj|solutionrelative:services\\order\\core\\zcommerce.order.application\\features\\cqrs\\commands\\addresscommands\\createaddresscommands\\createaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD3C257-C313-4132-8BD4-BE4E984CFDFF}|Services\\Order\\Core\\ZCommerce.Order.Domain\\ZCommerce.Order.Domain.csproj|c:\\users\\emir\\desktop\\coding\\z-commerceproject\\zcommerce.api\\src\\services\\order\\core\\zcommerce.order.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD3C257-C313-4132-8BD4-BE4E984CFDFF}|Services\\Order\\Core\\ZCommerce.Order.Domain\\ZCommerce.Order.Domain.csproj|solutionrelative:services\\order\\core\\zcommerce.order.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD3C257-C313-4132-8BD4-BE4E984CFDFF}|Services\\Order\\Core\\ZCommerce.Order.Domain\\ZCommerce.Order.Domain.csproj|c:\\users\\emir\\desktop\\coding\\z-commerceproject\\zcommerce.api\\src\\services\\order\\core\\zcommerce.order.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD3C257-C313-4132-8BD4-BE4E984CFDFF}|Services\\Order\\Core\\ZCommerce.Order.Domain\\ZCommerce.Order.Domain.csproj|solutionrelative:services\\order\\core\\zcommerce.order.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD3C257-C313-4132-8BD4-BE4E984CFDFF}|Services\\Order\\Core\\ZCommerce.Order.Domain\\ZCommerce.Order.Domain.csproj|c:\\users\\emir\\desktop\\coding\\z-commerceproject\\zcommerce.api\\src\\services\\order\\core\\zcommerce.order.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD3C257-C313-4132-8BD4-BE4E984CFDFF}|Services\\Order\\Core\\ZCommerce.Order.Domain\\ZCommerce.Order.Domain.csproj|solutionrelative:services\\order\\core\\zcommerce.order.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FB14A-01D0-4144-BC9E-68CD0E73B14A}|Services\\Order\\Core\\ZCommerce.Order.Application\\ZCommerce.Order.Application.csproj|c:\\users\\emir\\desktop\\coding\\z-commerceproject\\zcommerce.api\\src\\services\\order\\core\\zcommerce.order.application\\features\\cqrs\\commands\\ordercommands\\createordercommands\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8FB14A-01D0-4144-BC9E-68CD0E73B14A}|Services\\Order\\Core\\ZCommerce.Order.Application\\ZCommerce.Order.Application.csproj|solutionrelative:services\\order\\core\\zcommerce.order.application\\features\\cqrs\\commands\\ordercommands\\createordercommands\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA9EA14-B39A-49A0-B514-6D207BF30549}|Services\\Order\\Infrastructure\\ZCommerce.Order.Persistence\\ZCommerce.Order.Persistence.csproj|c:\\users\\emir\\desktop\\coding\\z-commerceproject\\zcommerce.api\\src\\services\\order\\infrastructure\\zcommerce.order.persistence\\repositories\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA9EA14-B39A-49A0-B514-6D207BF30549}|Services\\Order\\Infrastructure\\ZCommerce.Order.Persistence\\ZCommerce.Order.Persistence.csproj|solutionrelative:services\\order\\infrastructure\\zcommerce.order.persistence\\repositories\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Infrastructure\\ZCommerce.Order.Persistence\\Context\\OrderContext.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Infrastructure\\ZCommerce.Order.Persistence\\Context\\OrderContext.cs",
+              "ToolTip": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Infrastructure\\ZCommerce.Order.Persistence\\Context\\OrderContext.cs",
+              "RelativeToolTip": "Services\\Order\\Infrastructure\\ZCommerce.Order.Persistence\\Context\\OrderContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:16:17.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateAddressCommand.cs",
+              "DocumentMoniker": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Core\\ZCommerce.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommands\\CreateAddressCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\ZCommerce.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommands\\CreateAddressCommand.cs",
+              "ToolTip": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Core\\ZCommerce.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommands\\CreateAddressCommand.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\ZCommerce.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommands\\CreateAddressCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:15:49.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Core\\ZCommerce.Order.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\ZCommerce.Order.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Core\\ZCommerce.Order.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\ZCommerce.Order.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:14:34.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Core\\ZCommerce.Order.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\ZCommerce.Order.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Core\\ZCommerce.Order.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\ZCommerce.Order.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:14:14.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Core\\ZCommerce.Order.Domain\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\ZCommerce.Order.Domain\\Entities\\Address.cs",
+              "ToolTip": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Core\\ZCommerce.Order.Domain\\Entities\\Address.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\ZCommerce.Order.Domain\\Entities\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:14:09.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Core\\ZCommerce.Order.Application\\Features\\CQRS\\Commands\\OrderCommands\\CreateOrderCommands\\CreateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\ZCommerce.Order.Application\\Features\\CQRS\\Commands\\OrderCommands\\CreateOrderCommands\\CreateOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Core\\ZCommerce.Order.Application\\Features\\CQRS\\Commands\\OrderCommands\\CreateOrderCommands\\CreateOrderCommandHandler.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\ZCommerce.Order.Application\\Features\\CQRS\\Commands\\OrderCommands\\CreateOrderCommands\\CreateOrderCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:13:13.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Presentation\\ZCommerce.Order.WebAPI\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Presentation\\ZCommerce.Order.WebAPI\\Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Presentation\\ZCommerce.Order.WebAPI\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "Services\\Order\\Presentation\\ZCommerce.Order.WebAPI\\Controllers\\AddressController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:55:19.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateAddressCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Core\\ZCommerce.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommands\\CreateAddressCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Core\\ZCommerce.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommands\\CreateAddressCommandHandler.cs",
+              "ToolTip": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Core\\ZCommerce.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommands\\CreateAddressCommandHandler.cs",
+              "RelativeToolTip": "Services\\Order\\Core\\ZCommerce.Order.Application\\Features\\CQRS\\Commands\\AddressCommands\\CreateAddressCommands\\CreateAddressCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:49:54.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddressRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Infrastructure\\ZCommerce.Order.Persistence\\Repositories\\AddressRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Infrastructure\\ZCommerce.Order.Persistence\\Repositories\\AddressRepository.cs",
+              "ToolTip": "C:\\Users\\emir\\Desktop\\Coding\\Z-CommerceProject\\ZCommerce.API\\src\\Services\\Order\\Infrastructure\\ZCommerce.Order.Persistence\\Repositories\\AddressRepository.cs",
+              "RelativeToolTip": "Services\\Order\\Infrastructure\\ZCommerce.Order.Persistence\\Repositories\\AddressRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:06:45.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OWNMDn9T2bvcypYNtXdLWwjXJqbpvnhaT0zTUyJO7u4=",
+  "Source": "ZCommerce.Catalog",
+  "BasePath": "_content/ZCommerce.Catalog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

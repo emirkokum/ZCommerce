@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VoCDLjXL9nXimbSGGVIpeJYjVXRCslgCwY/dLEVY5+s=",
+  "Source": "ZCommerce.Order.WebAPI",
+  "BasePath": "_content/ZCommerce.Order.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

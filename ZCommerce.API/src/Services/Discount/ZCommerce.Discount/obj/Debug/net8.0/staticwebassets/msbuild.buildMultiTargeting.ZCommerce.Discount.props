@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ZCommerce.Discount.props" />
+</Project>

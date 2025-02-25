@@ -1,0 +1,14 @@
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\ZCommerce.Shared\bin\Debug\net8.0\ZCommerce.Shared.deps.json
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\ZCommerce.Shared\bin\Debug\net8.0\ZCommerce.Shared.runtimeconfig.json
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\ZCommerce.Shared\bin\Debug\net8.0\ZCommerce.Shared.dll
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\ZCommerce.Shared\bin\Debug\net8.0\ZCommerce.Shared.pdb
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\ZCommerce.Shared\obj\Debug\net8.0\ZCommerce.Shared.csproj.AssemblyReference.cache
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\ZCommerce.Shared\obj\Debug\net8.0\ZCommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\ZCommerce.Shared\obj\Debug\net8.0\ZCommerce.Shared.AssemblyInfoInputs.cache
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\ZCommerce.Shared\obj\Debug\net8.0\ZCommerce.Shared.AssemblyInfo.cs
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\ZCommerce.Shared\obj\Debug\net8.0\ZCommerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\ZCommerce.Shared\obj\Debug\net8.0\ZCommerce.Shared.dll
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\ZCommerce.Shared\obj\Debug\net8.0\refint\ZCommerce.Shared.dll
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\ZCommerce.Shared\obj\Debug\net8.0\ZCommerce.Shared.pdb
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\ZCommerce.Shared\obj\Debug\net8.0\ZCommerce.Shared.genruntimeconfig.cache
+C:\Users\emir\Desktop\Coding\Z-Commerce\src\ZCommerce.Shared\obj\Debug\net8.0\ref\ZCommerce.Shared.dll

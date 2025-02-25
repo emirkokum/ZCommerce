@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ZCommerce.Order.WebAPI.props" />
+</Project>

@@ -1,0 +1,6 @@
+@ZCommerce.Discount_HostAddress = http://localhost:5234
+
+GET {{ZCommerce.Discount_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
